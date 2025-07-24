@@ -1,1 +1,1 @@
-# 2-1-multiplexer
+# 2:1-multiplexer
